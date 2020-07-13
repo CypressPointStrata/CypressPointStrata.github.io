@@ -7,6 +7,9 @@ REM Control Panel >> User Accounts >> Manage your Credentials >> Windows Credent
 REM or from cmd prompt: rundll32.exe keymgr.dll, KRShowKeyMgr
 REM remove git credentials.
 REM next time when you'll push repo it'll ask you for credential.
+REM
+REM The GIT commands must be rum in the GIT project home directory
+cd "D:\UserFilesDdrive\Documents\Cypress Point\websiteGitHubCypressPointStrata\CypressPointStrata.github.io"
 git add --all
 git commit -m "update"
 git push -u origin master

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="16">
+<FreeFileSync XmlType="GUI" XmlFormat="17">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -21,7 +21,6 @@
             <Item>\RECYCLER\</Item>
             <Item>\RECYCLED\</Item>
             <Item>\Windows Firewall Logs\*</Item>
-            <Item>\Cypress Point\website - Copy before 2005 minutes deleted\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -49,6 +48,6 @@
     <LogFolder>D:\UserFilesDdrive\Documents\FreeFileSync\Logs</LogFolder>
     <EmailNotification Condition="Always"/>
     <Gui>
-        <MiddleGridView>Action</MiddleGridView>
+        <GridViewType>Action</GridViewType>
     </Gui>
 </FreeFileSync>

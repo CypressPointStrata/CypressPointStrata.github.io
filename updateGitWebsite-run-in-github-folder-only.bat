@@ -1,4 +1,6 @@
 REM To switch user on Windows:
+REM see: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-personal-account/managing-multiple-accounts
+REM
 git config --global user.name CypressPointStrata
 git config --global user.email cypressnw2050@gmail.com
 REM YOU MIGHT HAVE TO WAIT A WHILE IF SWITCHING USERS

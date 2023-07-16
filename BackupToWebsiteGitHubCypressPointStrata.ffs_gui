@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="17">
+<FreeFileSync XmlType="GUI" XmlFormat="19">
+    <Notes/>
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -22,9 +23,9 @@
             <Item>\RECYCLED\</Item>
             <Item>\Windows Firewall Logs\*</Item>
         </Exclude>
-        <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
+        <TimeSpan Type="None">0</TimeSpan>
     </Filter>
     <FolderPairs>
         <Pair>
@@ -37,9 +38,9 @@
                 <Exclude>
                     <Item>.git</Item>
                 </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
                 <SizeMax Unit="None">0</SizeMax>
+                <TimeSpan Type="None">0</TimeSpan>
             </Filter>
         </Pair>
     </FolderPairs>
@@ -47,7 +48,5 @@
     <PostSyncCommand Condition="Completion"/>
     <LogFolder>D:\UserFilesDdrive\Documents\FreeFileSync\Logs</LogFolder>
     <EmailNotification Condition="Always"/>
-    <Gui>
-        <GridViewType>Action</GridViewType>
-    </Gui>
+    <GridViewType>Action</GridViewType>
 </FreeFileSync>

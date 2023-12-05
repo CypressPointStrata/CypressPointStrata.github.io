@@ -1,0 +1,21 @@
+/*
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Example</title>
+    <link rel="stylesheet" href="style.css">
+-------------------------------oOo--------------------------------	
+style.css file:
+*/
+
+#wrap {
+ width: 1020px;
+}
+
+@media only screen and (max-width: 900px) { /* Screen which has a maximum width of 900px */
+
+  #wrap {
+    width: 500px;
+  } 
+
+}

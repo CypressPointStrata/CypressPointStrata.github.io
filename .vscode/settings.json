@@ -1,0 +1,7 @@
+{
+    "github.copilot.chat.alternateGeminiModelFPrompt.enabled": false,
+    "github.copilot.chat.askAgent.model": "Auto",
+    "github.copilot.chat.exploreAgent.model": "Auto",
+    "github.copilot.chat.implementAgent.model": "Auto",
+    "github.copilot.selectedCompletionModel": "Auto"
+}

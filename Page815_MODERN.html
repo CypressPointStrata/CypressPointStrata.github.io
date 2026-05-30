@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Board and shareholder meeting minutes">
+    <title>Minutes - Cypress Point Strata</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #d699ad 0%, #903333 100%);
+            color: white;
+            padding: 2rem;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        header h1 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        header p {
+            font-size: 1rem;
+            opacity: 0.95;
+        }
+        
+        /* Navigation */
+        nav {
+            background-color: #903333;
+            padding: 0;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        nav li {
+            margin: 0;
+        }
+        
+        nav a {
+            display: block;
+            padding: 1rem 1.5rem;
+            color: white;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        nav a:hover {
+            background-color: #d699ad;
+        }
+        
+        /* Main container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        main {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        
+        main h1 {
+            color: #903333;
+            margin-bottom: 2rem;
+            font-size: 2rem;
+        }
+        
+        /* Content sections */
+        .content-section {
+            margin: 2rem 0;
+        }
+        
+        .year-section {
+            margin-bottom: 3rem;
+        }
+        
+        .year-section h2 {
+            color: #d699ad;
+            margin-bottom: 1.5rem;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #efd7df;
+            padding-bottom: 0.5rem;
+        }
+        
+        .document-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+        
+        .document-list li {
+            background-color: #f8f9fa;
+            border-left: 4px solid #d699ad;
+            padding: 1rem;
+            border-radius: 4px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        
+        .document-list li:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .document-list a {
+            color: #903333;
+            text-decoration: none;
+            font-weight: 500;
+            word-break: break-word;
+        }
+        
+        .document-list a:hover {
+            color: #d699ad;
+            text-decoration: underline;
+        }
+        
+        /* Footer */
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+            font-size: 0.9rem;
+        }
+        
+        footer a {
+            color: #d699ad;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Responsive design */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.5rem;
+            }
+            
+            nav ul {
+                flex-direction: column;
+            }
+            
+            nav li {
+                flex: 1;
+            }
+            
+            nav a {
+                padding: 0.75rem 1rem;
+                border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+            
+            main {
+                padding: 1.5rem;
+            }
+            
+            main h1 {
+                font-size: 1.5rem;
+            }
+            
+            .document-list {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            header {
+                padding: 1rem;
+            }
+            
+            header h1 {
+                font-size: 1.25rem;
+            }
+            
+            header p {
+                font-size: 0.9rem;
+            }
+            
+            .container {
+                padding: 0.5rem;
+            }
+            
+            main {
+                padding: 1rem;
+            }
+            
+            main h1 {
+                font-size: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cypress Point Strata</h1>
+        <p>Community Management &amp; Information</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="../index.htm">Home</a></li>
+            <li><a href="Page449.htm">News</a></li>
+            <li><a href="Page929.htm">Procedures</a></li>
+            <li><a href="Page1658.htm">Reports</a></li>
+            <li><a href="Page1861.htm">Manuals</a></li>
+            <li><a href="Page1347.htm">Bylaws</a></li>
+            <li><a href="Page1322.htm">Pool</a></li>
+            <li><a href="Page592.htm">Community</a></li>
+            <li><a href="Page563.htm">Events</a></li>
+            <li><a href="Page2193.htm">Contact</a></li>
+            <li><a href="Page2054.htm">Links</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <main>
+            <h1>Minutes</h1>
+            <section class="content-section">
+                <div class="year-section">
+                    <h2>2025</h2>
+                    <ul class="document-list">
+                        <li><a href="documents/minutes/2025/2025-01-16-SGM-Minutes.pdf" target="_blank">January 16 2025 SGM Minutes - New Roof</a></li>
+                        <li><a href="documents/minutes/2025/2025-01-29-Minutes.pdf" target="_blank">January 29 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-02-27-Minutes.pdf" target="_blank">February 27 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-03-27-Minutes.pdf" target="_blank">March 27 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-05-01-Minutes.pdf" target="_blank">May 01 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-05-28-Minutes.pdf" target="_blank">May 28 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-06-25-Minutes.pdf" target="_blank">June 25 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-07-30-Minutes.pdf" target="_blank">July 30 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-08-28-Minutes.pdf" target="_blank">August 28 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-09-24-Minutes.pdf" target="_blank">September 24 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-10-29-Minutes.pdf" target="_blank">October 29 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-11-21-AGM-Package.pdf" target="_blank">November 13 2025 AGM Package</a></li>
+                        <li><a href="documents/minutes/2025/2025-11-13-AGM-Minutes.pdf" target="_blank">November 13 2025 AGM Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-11-13-Minutes.pdf" target="_blank">November 13 2025 Minutes</a></li>
+                        <li><a href="documents/minutes/2025/2025-12-04-Minutes.pdf" target="_blank">December 4 2025 Minutes</a></li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <footer>
+        <p>&copy; 2024 Cypress Point Strata. All rights reserved.</p>
+        <p><a href="../index.htm">Back to Home</a></p>
+    </footer>
+</body>
+</html>

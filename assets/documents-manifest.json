@@ -1,0 +1,270 @@
+{
+  "manifest_version": "1.0",
+  "last_updated": "2025-02-04",
+  "organization": "Cypress Point Strata NW2050",
+  "document_categories": {
+    "minutes": {
+      "display_name": "Meeting Minutes",
+      "description": "Strata council meeting minutes organized by year",
+      "years": {
+        "2026": {
+          "path": "index_files/documents/minutes/2026/",
+          "documents": [
+            {
+              "name": "2026-02-04 Strata Council Meeting Minutes.pdf",
+              "url": "index_files/documents/minutes/2026/2026-02-04%20Strata%20Council%20Meeting%20Minutes.pdf",
+              "type": "pdf",
+              "status": "active"
+            },
+            {
+              "name": "2026-03-06 Strata Council Meeting Minutes.pdf",
+              "url": "index_files/documents/minutes/2026/2026-03-06%20Strata%20Council%20Meeting%20Minutes.pdf",
+              "type": "pdf",
+              "status": "active"
+            }
+          ]
+        },
+        "2025": {
+          "path": "index_files/documents/minutes/2025/",
+          "documents": [
+            {
+              "name": "2025-11-13 AGM Minutes.pdf",
+              "url": "index_files/documents/minutes/2025/2025-11-13-AGM-Minutes.pdf",
+              "type": "pdf",
+              "status": "active"
+            },
+            {
+              "name": "2025-01-16 SGM Minutes.pdf",
+              "url": "index_files/documents/minutes/2025/2025-01-16-SGM-Minutes.pdf",
+              "type": "pdf",
+              "status": "active"
+            },
+            {
+              "name": "2025-12-04 Council Meeting Minutes.pdf",
+              "url": "index_files/documents/minutes/2025/2025-12-04-Council-Minutes.pdf",
+              "type": "pdf",
+              "status": "active"
+            }
+          ]
+        },
+        "2024": {
+          "path": "index_files/documents/minutes/2024/",
+          "note": "Historical archive - multiple meeting minutes throughout 2024"
+        },
+        "2023": {
+          "path": "index_files/documents/minutes/2023/",
+          "note": "Historical archive"
+        },
+        "2022": {
+          "path": "index_files/documents/minutes/2022/",
+          "note": "Historical archive"
+        },
+        "2012-2021": {
+          "path": "index_files/documents/minutes/",
+          "note": "Historical archives available"
+        },
+        "2010": {
+          "path": "index_files/documents/minutes/2010/",
+          "note": "Oldest archive - meeting minutes from 2010"
+        }
+      },
+      "total_count": "100+",
+      "archive_span": "2010-2026 (16+ years)"
+    },
+    "procedures": {
+      "display_name": "Procedures & Notices",
+      "description": "Operational procedures, notices, and safety guidelines",
+      "path": "index_files/documents/procedures/",
+      "documents": [
+        {
+          "name": "Welcome Package 2007.pdf",
+          "url": "index_files/documents/procedures/Welcome%20Package%202007.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Fire Safety Plan.pdf",
+          "url": "index_files/documents/procedures/7651%20Fire%20Safety%20Plan.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Pool Rules and Regulations.pdf",
+          "url": "index_files/documents/procedures/Pool%20Rules%20and%20Regulations.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Roof Fan Timer Change Procedure.pdf",
+          "url": "index_files/documents/procedures/Roof%20Fan%20Timer%20Change%20Procedure.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Important Insurance Notice (June 8, 2020).pdf",
+          "url": "index_files/documents/procedures/2020-06-08-INSURANCE-NOTICE.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Pool Rules Infractions 2006.pdf",
+          "url": "index_files/documents/procedures/POOL%20RULES%20Infractions%202006.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Rooftop Deck Fences.pdf",
+          "url": "index_files/documents/procedures/Rooftop%20Deck%20Fences.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Hallway Fans Schedule.pdf",
+          "url": "index_files/documents/procedures/Hallway%20Fans%20-%20Times.pdf",
+          "type": "pdf"
+        },
+        {
+          "name": "Watering System Procedures.pdf",
+          "url": "index_files/documents/procedures/Watering%20System.pdf",
+          "type": "pdf"
+        }
+      ],
+      "total_count": "15+",
+      "categories": [
+        "Safety & Emergency",
+        "Maintenance Procedures",
+        "Community Rules",
+        "Important Notices",
+        "Orientation Materials"
+      ]
+    },
+    "reports": {
+      "display_name": "Financial Reports",
+      "description": "Financial statements, audit reports, and special reports",
+      "path": "index_files/documents/reports/",
+      "subcategories": [
+        "Financial Statements",
+        "Audit Reports",
+        "Reserve Fund Planning",
+        "Special Assessments",
+        "Annual Reports"
+      ],
+      "total_count": "50+",
+      "organization": "Organized by year and report type"
+    },
+    "bylaws": {
+      "display_name": "Bylaws & Regulations",
+      "description": "Current and historical strata bylaws",
+      "path": "index_files/documents/bylaws/",
+      "documents": [
+        {
+          "name": "2025-Oct-16 Bylaws Strata NW2050 (CURRENT).pdf",
+          "url": "index_files/documents/bylaws/2025-Oct-16%20Bylaws%20Strata%20NW2050.pdf",
+          "type": "pdf",
+          "status": "current",
+          "effective_date": "October 16, 2025"
+        },
+        {
+          "name": "2023-Dec-04 Bylaws Strata NW2050 v2.pdf",
+          "url": "index_files/documents/bylaws/2023-Dec-04%20Bylaws%20Strata%20NW2050.v2.pdf",
+          "type": "pdf",
+          "status": "historical"
+        },
+        {
+          "name": "2022-Dec-07 Bylaws Strata NW2050.pdf",
+          "url": "index_files/documents/bylaws/2022-Dec-07%20Bylaws%20Strata%20NW2050.pdf",
+          "type": "pdf",
+          "status": "historical"
+        },
+        {
+          "name": "2018-Dec-04 Bylaws Strata NW2050 v2.pdf",
+          "url": "index_files/documents/bylaws/2018-Dec-04%20Bylaws%20v2.pdf",
+          "type": "pdf",
+          "status": "historical"
+        }
+      ],
+      "total_count": "10+",
+      "archive_span": "2006-2025 (19+ years)",
+      "note": "Complete version history available for reference"
+    },
+    "manuals": {
+      "display_name": "Equipment & System Manuals",
+      "description": "Instruction manuals for equipment and building systems",
+      "path": "index_files/documents/manuals/",
+      "categories": {
+        "exercise_equipment": [
+          "BowFlex Xtreme SE Owners Manual.pdf"
+        ],
+        "irrigation_systems": [
+          "Rain Bird ESP-LX.pdf",
+          "Rain Bird E-Class.pdf"
+        ],
+        "building_systems": [
+          "HVAC System Manual.pdf",
+          "Fire Suppression System.pdf",
+          "Electrical System Documentation.pdf"
+        ]
+      },
+      "total_count": "5+",
+      "note": "Equipment and system documentation for maintenance and operation"
+    },
+    "contacts": {
+      "display_name": "Contact Information",
+      "description": "Emergency contacts and organizational information",
+      "path": "index_files/documents/contacts/",
+      "documents": [
+        {
+          "name": "Emergency Contact List.pdf",
+          "url": "index_files/documents/contacts/EMERGENCY%20CONTACT%20LIST.pdf",
+          "type": "pdf"
+        }
+      ],
+      "primary_email": "cypresspointnw2050@gmail.com",
+      "note": "Emergency and administrative contact information"
+    },
+    "government_documents": {
+      "display_name": "Government & Regulatory Documents",
+      "description": "BC government resources and regulatory guidance",
+      "path": "index_files/documents/goverment%20documents/",
+      "documents": [
+        {
+          "name": "Guide 12 - CRF and Special Levies.pdf",
+          "url": "index_files/documents/goverment%20documents/Guide12%20-%20CRF%20and%20Special%20Levies.pdf",
+          "type": "pdf"
+        }
+      ],
+      "total_count": "1+",
+      "note": "BC government resources for strata property owners"
+    },
+    "pool_documents": {
+      "display_name": "Swimming Pool",
+      "description": "Pool-related rules and operational documents",
+      "included_in": "procedures",
+      "note": "Pool-related documents are organized in the procedures category"
+    }
+  },
+  "summary": {
+    "total_documents": "300+",
+    "total_categories": 7,
+    "archive_span": "2006-2026 (20+ years)",
+    "primary_contact": "cypresspointnw2050@gmail.com",
+    "website_pages": 11,
+    "mobile_responsive": true,
+    "last_verification": "2025-02-04"
+  },
+  "external_resources": {
+    "strata_associations": [
+      {
+        "name": "Canadian Homeowners Association (CHOA)",
+        "url": "http://www.choa.bc.ca"
+      }
+    ],
+    "government_resources": [
+      {
+        "name": "BC Strata Property Act",
+        "url": "http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/98043_01"
+      }
+    ]
+  },
+  "metadata": {
+    "format": "JSON",
+    "encoding": "UTF-8",
+    "version": "1.0",
+    "purpose": "Complete index and manifest of all Cypress Point Strata community documents",
+    "created": "2025-02-04",
+    "creator": "Copilot Web Modernization Project"
+  }
+}

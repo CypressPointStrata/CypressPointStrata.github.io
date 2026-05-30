@@ -1,0 +1,270 @@
+[
+  {
+    "filename": "Page815.htm",
+    "title": "Minutes",
+    "content_type": "document_links",
+    "description": "Meeting Minutes Archive - contains links to strata council meeting minutes from 2026, 2025, and earlier years",
+    "sections": [
+      "2026 Minutes",
+      "2025 Minutes",
+      "2024 Minutes",
+      "Earlier Years Minutes"
+    ],
+    "sample_links": [
+      {
+        "text": "2026-02-04 Strata Council Meeting Minutes",
+        "href": "documents/minutes/2026/2026-02-04%20Strata%20Council%20Meeting%20Minutes.pdf"
+      },
+      {
+        "text": "2026-03-06 Strata Council Meeting Minutes",
+        "href": "documents/minutes/2026/2026-03-06%20Strata%20Council%20Meeting%20Minutes.pdf"
+      },
+      {
+        "text": "2025-11-13 AGM Minutes",
+        "href": "documents/minutes/2025/2025-11-13-AGM-Minutes.pdf"
+      },
+      {
+        "text": "2025-01-16 SGM Minutes",
+        "href": "documents/minutes/2025/2025-01-16-SGM-Minutes.pdf"
+      }
+    ],
+    "navigation_links": [
+      "Page449.htm (About Us/News)",
+      "Page929.htm (Procedures)",
+      "Page1658.htm (Reports)",
+      "Page1861.htm (Manuals)",
+      "Page1347.htm (Bylaws)",
+      "Page1322.htm (Swimming Pool)",
+      "Page592.htm (Contacts)",
+      "Page563.htm (External Links/Events)",
+      "Page2054.htm (External Links)",
+      "Page2193.htm (Minutes Archive/Contact)"
+    ]
+  },
+  {
+    "filename": "Page929.htm",
+    "title": "Procedures",
+    "content_type": "document_links",
+    "description": "Procedures & Notices - contains procedure documents, notices, and important announcements for the strata",
+    "sections": [
+      "Notices",
+      "Procedures",
+      "Rules & Regulations"
+    ],
+    "sample_links": [
+      {
+        "text": "Welcome Package 2007",
+        "href": "documents/procedures/Welcome%20Package%202007.pdf"
+      },
+      {
+        "text": "Fire Safety Plan",
+        "href": "documents/procedures/7651%20Fire%20Safety%20Plan.pdf"
+      },
+      {
+        "text": "Roof Fan Timer Change Procedure",
+        "href": "documents/procedures/Roof%20Fan%20Timer%20Change%20Procedure.pdf"
+      },
+      {
+        "text": "IMPORTANT INSURANCE NOTICE - JUNE 8 2020",
+        "href": "documents/procedures/2020-06-08-INSURANCE-NOTICE.pdf"
+      },
+      {
+        "text": "POOL RULES Infractions 2006",
+        "href": "documents/procedures/POOL%20RULES%20Infractions%202006.pdf"
+      },
+      {
+        "text": "Rooftop Deck Fences",
+        "href": "documents/procedures/Rooftop%20Deck%20Fences.pdf"
+      },
+      {
+        "text": "Hallway Fans - Times",
+        "href": "documents/procedures/Hallway%20Fans%20-%20Times.pdf"
+      }
+    ]
+  },
+  {
+    "filename": "Page1658.htm",
+    "title": "Reports",
+    "content_type": "document_links",
+    "description": "Reports - contains financial reports, audit reports, and other strata reports",
+    "sections": [
+      "Financial Reports",
+      "Audit Reports",
+      "Special Reports"
+    ],
+    "sample_links": "Multiple report documents from documents/reports/ directory",
+    "note": "Large file containing many linked report documents"
+  },
+  {
+    "filename": "Page1861.htm",
+    "title": "Manuals",
+    "content_type": "document_links",
+    "description": "Manuals - contains instruction manuals for equipment and systems at the strata",
+    "sections": [
+      "Exercise Equipment Manuals",
+      "Irrigation System Manuals",
+      "Building Systems Manuals"
+    ],
+    "sample_links": [
+      {
+        "text": "BowFlex Xtreme SE Owners Manual",
+        "href": "documents/manuals/BowFlexXtremeSEOwnersManual.pdf"
+      },
+      {
+        "text": "Rain Bird ESP-LX",
+        "href": "documents/manuals/Rain%20Bird%20ESP-LX.pdf"
+      },
+      {
+        "text": "Rain Bird E-Class",
+        "href": "documents/manuals/Rain%20Bird%20E-Class.pdf"
+      }
+    ]
+  },
+  {
+    "filename": "Page1347.htm",
+    "title": "Bylaws",
+    "content_type": "document_links",
+    "description": "Bylaws - contains current and historical versions of strata bylaws and related legal documents",
+    "sections": [
+      "Current Bylaws",
+      "Historical Bylaws (2025 back to 2006)",
+      "Regulatory Notices"
+    ],
+    "sample_links": [
+      {
+        "text": "2025-Oct-16 Bylaws Strata NW2050",
+        "href": "documents/2025-Oct-16%20Bylaws%20Strata%20NW2050.pdf"
+      },
+      {
+        "text": "Land Title Survey Authority Registration Notice Dec 9 2025",
+        "href": "documents/Land%20Title%20Survey%20Authority%20Registration%20Notice%20Dec%209%202025.pdf"
+      },
+      {
+        "text": "2023-Dec-04 Bylaws Strata NW2050",
+        "href": "documents/2023-Dec-04%20Bylaws%20Strata%20NW2050.v2.pdf"
+      },
+      {
+        "text": "2022-Dec-07 Bylaws Strata NW2050",
+        "href": "documents/2022-Dec-07%20Bylaws%20Strata%20NW2050.pdf"
+      }
+    ]
+  },
+  {
+    "filename": "Page1322.htm",
+    "title": "Swimming Pool",
+    "content_type": "document_links",
+    "description": "Pool - contains pool rules, regulations, and operational documents",
+    "sections": [
+      "Pool Rules & Regulations",
+      "Pool Operational Guidelines",
+      "Safety Information"
+    ],
+    "sample_links": [
+      {
+        "text": "Pool Rules and Regulations",
+        "href": "documents/procedures/Pool%20Rules%20and%20Regulations.pdf"
+      }
+    ]
+  },
+  {
+    "filename": "Page592.htm",
+    "title": "Contacts",
+    "content_type": "contact_information",
+    "description": "Contact Information - lists contacts for the strata office, emergency contacts, and contact documents",
+    "sections": [
+      "Strata Office Contact",
+      "Emergency Contacts",
+      "Key Contact Documents"
+    ],
+    "contact_info": [
+      {
+        "type": "email",
+        "value": "cypresspointnw2050@gmail.com",
+        "subject": "Cypress Point Office email"
+      }
+    ],
+    "sample_links": [
+      {
+        "text": "EMERGENCY CONTACT LIST",
+        "href": "documents/contacts/EMERGENCY%20CONTACT%20LIST.pdf"
+      }
+    ]
+  },
+  {
+    "filename": "Page563.htm",
+    "title": "External Links",
+    "content_type": "external_links",
+    "description": "External Links - contains links to external resources, government documents, and reference materials",
+    "sections": [
+      "Industry Organizations",
+      "Government Resources",
+      "Reference Documents"
+    ],
+    "sample_links": [
+      {
+        "text": "CHOA (Condominium Home Owners Association)",
+        "href": "http://www.choa.bc.ca"
+      },
+      {
+        "text": "BC Laws - Strata Property Act",
+        "href": "http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/98043_01"
+      },
+      {
+        "text": "Guide 12 - CRF and Special Levies",
+        "href": "documents/goverment%20documents/Guide12%20-%20CRF%20and%20Special%20Levies.pdf"
+      }
+    ]
+  },
+  {
+    "filename": "Page449.htm",
+    "title": "About Us",
+    "content_type": "navigation",
+    "description": "About Us - information page about Cypress Point Strata (News/Home)",
+    "sections": [
+      "Navigation Hub"
+    ],
+    "content": "Main navigation/informational page for the strata website"
+  },
+  {
+    "filename": "Page2193.htm",
+    "title": "Minutes Archive",
+    "content_type": "document_links",
+    "description": "Archived Minutes - historical archive of meeting minutes from 2010-2012 and earlier",
+    "sections": [
+      "2012 Minutes",
+      "2011 Minutes",
+      "2010 Minutes",
+      "Earlier Years"
+    ],
+    "sample_links": [
+      {
+        "text": "January 25 2012",
+        "href": "documents/minutes/2012/01.%20January%2025%202012.pdf"
+      },
+      {
+        "text": "Roof Deck Committee Meeting Minutes March 24 2012",
+        "href": "documents/minutes/2012/2012-03-24_Roof_Deck_Committee_Meeting_Minutes.pdf"
+      },
+      {
+        "text": "January 13 2010",
+        "href": "documents/minutes/2010/01.%20January%2013%202010.pdf"
+      }
+    ]
+  },
+  {
+    "filename": "Page2054.htm",
+    "title": "External Links",
+    "content_type": "external_links",
+    "description": "External Links - calendar and resource links for residents",
+    "sections": [
+      "Community Calendar",
+      "External Resources"
+    ],
+    "sample_links": [
+      {
+        "text": "Community Google Calendar",
+        "href": "https://calendar.google.com/calendar/embed?src=cypressnw2050%40gmail.com&ctz=America%2FVancouver"
+      }
+    ]
+  }
+]

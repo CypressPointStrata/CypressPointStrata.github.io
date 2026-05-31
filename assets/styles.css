@@ -83,7 +83,7 @@ small {
    ============================================================ */
 
 header {
-    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-dark) 100%);
+    background: linear-gradient(135deg, #5c1a2d 0%, #3d0f1a 100%);
     color: var(--color-white);
     padding: 1.5rem;
     box-shadow: var(--shadow-sm);
@@ -124,7 +124,7 @@ header p {
    ============================================================ */
 
 nav {
-    background-color: var(--color-dark);
+    background-color: #3d0f1a;
     padding: 0;
     box-shadow: var(--shadow-sm);
 }
@@ -163,7 +163,7 @@ nav {
 }
 
 .nav-link:hover {
-    background-color: #a85a75;
+    background-color: #6b2738;
     color: var(--color-white);
 }
 
@@ -234,7 +234,7 @@ nav {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: var(--color-dark);
+    background-color: #3d0f1a;
     min-width: 200px;
     box-shadow: var(--shadow-sm);
     padding: 0.5rem 0;
@@ -615,7 +615,7 @@ footer a:hover {
         display: none !important;
         top: 100%;
         left: 0;
-        background-color: var(--color-dark);
+        background-color: #3d0f1a;
         min-width: 200px;
         box-shadow: var(--shadow-sm);
         padding: 0.5rem 0;
@@ -657,7 +657,7 @@ footer a:hover {
     }
 
     nav {
-        background-color: var(--color-dark);
+        background-color: #3d0f1a;
     }
 
     .nav-container {

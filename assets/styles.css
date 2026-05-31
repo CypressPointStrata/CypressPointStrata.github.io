@@ -150,7 +150,9 @@ nav {
 }
 
 .nav-link {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 2rem 1.5rem;
     color: var(--color-white);
     text-decoration: none;
@@ -161,7 +163,7 @@ nav {
 }
 
 .nav-link:hover {
-    background-color: var(--color-primary);
+    background-color: #a85a75;
     color: var(--color-white);
 }
 

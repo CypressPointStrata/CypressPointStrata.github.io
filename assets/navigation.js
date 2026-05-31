@@ -44,6 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     toggle.classList.toggle('active');
                 }
             }
+            // On desktop, allow default link behavior (href="#" will do nothing but won't break)
         });
     });
 

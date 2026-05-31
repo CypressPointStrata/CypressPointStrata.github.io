@@ -151,7 +151,7 @@ nav {
 
 .nav-link {
     display: block;
-    padding: 1.25rem 1.5rem;
+    padding: 2rem 1.5rem;
     color: var(--color-white);
     text-decoration: none;
     transition: background-color 0.3s ease, color 0.3s ease;
@@ -245,7 +245,7 @@ nav {
 
 .dropdown-item {
     display: block;
-    padding: 1rem 1.5rem;
+    padding: 1.5rem 1.5rem;
     color: var(--color-white);
     text-decoration: none;
     font-size: 0.9rem;
@@ -568,7 +568,7 @@ footer a:hover {
 
 @media (min-width: 768px) {
     body {
-        padding-top: 9rem;
+        padding-top: 13rem;
     }
 
     header h1 {

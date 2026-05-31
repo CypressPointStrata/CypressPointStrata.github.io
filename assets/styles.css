@@ -639,6 +639,10 @@ footer a:hover {
    ============================================================ */
 
 @media (max-width: 767px) {
+    body {
+        padding-top: 5rem;
+    }
+
     header {
         padding: 1rem;
     }

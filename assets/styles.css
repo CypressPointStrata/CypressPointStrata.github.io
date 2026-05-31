@@ -177,19 +177,20 @@ nav {
     display: none;
     flex-direction: column;
     cursor: pointer;
-    gap: 0.35rem;
-    padding: 1rem;
+    gap: 0.4rem;
+    padding: 1.25rem;
     background: none;
     border: none;
     color: var(--color-white);
 }
 
 .hamburger span {
-    width: 25px;
-    height: 3px;
-    background-color: var(--color-white);
+    width: 28px;
+    height: 4px;
+    background-color: #ffffff;
     border-radius: 2px;
     transition: all 0.3s ease;
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
 
 .hamburger.active span:nth-child(1) {
